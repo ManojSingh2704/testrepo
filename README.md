@@ -1,2 +1,2 @@
 # testrepo
-it is a markdown repository
+it is a markdown repository.
